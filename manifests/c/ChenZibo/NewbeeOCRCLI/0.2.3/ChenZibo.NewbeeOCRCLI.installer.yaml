@@ -19,7 +19,6 @@ ReleaseDate: 2026-09-04
 AppsAndFeaturesEntries:
 - DisplayName: newbee_ocr_cli
   Publisher: ChenZibo
-  DisplayVersion: 0.2.3
   ProductCode: '{61D634E6-CA9A-408A-82DB-CEB65274043A}'
   UpgradeCode: '{C95EFE3A-1A02-46B3-9A9A-D3B190F5217C}'
 InstallationMetadata:
